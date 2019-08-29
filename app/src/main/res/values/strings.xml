@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">menu</string>
+    <string name="action_settings">Settings 0</string>
+    <string name="action_settings1">Settings 1</string>
+    <string name="action_settings2">Settings 2</string>
+    <string name="action_settings3">Settings 3</string>
+    <string name="action_settings4">Settings 4</string>
+    <string name="action_settings5">Settings 5</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>

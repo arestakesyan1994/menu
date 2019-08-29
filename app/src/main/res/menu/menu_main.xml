@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alla.menu.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings1"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:orderInCategory="100"
+        android:title="@string/action_settings1"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings2"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:orderInCategory="100"
+        android:title="@string/action_settings2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings3"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:orderInCategory="100"
+        android:title="@string/action_settings3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings4"
+        android:orderInCategory="100"
+        android:title="@string/action_settings4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings5"
+        android:checkable="true"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title="@string/action_settings5"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>
